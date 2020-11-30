@@ -23,6 +23,7 @@
         android:background="#FFE4E1"
         android:textSize="30dip"/>
 
+
     <Button
         android:id="@+id/bt_delete"
         android:layout_column="3"
